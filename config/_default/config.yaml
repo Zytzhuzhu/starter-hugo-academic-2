@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 朱依婷的首页 # Website name
+baseURL: 'https://eatingzz.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -55,7 +55,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author: authorshttps://eatingzz.netlify.app/media/albums/demo/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 markup:
   _merge: deep
 related:
