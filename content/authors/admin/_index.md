@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate student in the Information System and Management Engineering (ISME) department
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,7 +54,6 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/6425882464
-    label: Follow me on Twitter
     display:
       header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -80,6 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-朱依婷是南方科技大学商学院研一学生。当前研究方向为幸福感、再分配等管理学范畴。她有统计学以及金融背景，具有一定的python编程基础与数据分析基础，具有良好的沟通能力。大学和工作
+朱依婷是南方科技大学商学院研一学生。当前研究方向为幸福感、再分配等组织行为学方向。她有统计学以及金融背景，具有一定的python编程基础与数据分析基础，具有良好的沟通能力。大学和工作
 期间，多段实习期间，积累了行业分析、资金管理、数据分析、算法编程的实战经验。
 {style="text-align: justify;"}
